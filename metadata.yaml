@@ -1,0 +1,43 @@
+_repo: A-narrative-of-travels-in-northern-Africa-in-the-years-1818-19-and-20-accompanied-by-geograph__70833
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Buckland, William
+    birthdate: 1784
+    deathdate: 1856
+    gutenberg_agent_id: '55944'
+    url: http://www.gutenberg.org/2009/agents/55944
+    wikipedia: https://en.wikipedia.org/wiki/William_Buckland
+creator:
+  author:
+    agent_name: Lyon, G. F. (George Francis)
+    alias: Lyon, George Francis
+    birthdate: 1795
+    deathdate: 1832
+    gutenberg_agent_id: '55943'
+    url: http://www.gutenberg.org/2009/agents/55943
+    wikipedia: https://en.wikipedia.org/wiki/George_Francis_Lyon
+description: ''
+gutenberg_issued: '2023-05-22'
+identifiers:
+  gutenberg: '70833'
+  lccn: 05008287
+language: en
+pgterms:marc904: https://archive.org/details/narrativeoftrave00lyon_0
+pgterms:marc905: 20230507231642lyon
+pgterms:marc906: '1821'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Murray, $c1821.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tripolitania -- Description and travel'
+- !lcsh 'Fezzan (Libya) -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: A narrative of travels in northern Africa in the years 1818, 19, and 20; accompanied
+  by geographical notices of Soudan and of the course of the Niger
+url: http://www.gutenberg.org/ebooks/70833
