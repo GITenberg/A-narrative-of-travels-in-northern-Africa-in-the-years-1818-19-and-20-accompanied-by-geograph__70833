@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '55944'
     url: http://www.gutenberg.org/2009/agents/55944
     wikipedia: https://en.wikipedia.org/wiki/William_Buckland
+covers:
+- cover_type: archival
+  image_path: 70833-h/images/cover.jpg
 creator:
   author:
     agent_name: Lyon, G. F. (George Francis)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55943
     wikipedia: https://en.wikipedia.org/wiki/George_Francis_Lyon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70833#A-narrative-of-travels-in-northern-Africa-in-the-years-1818-19-and-20-accompanied-by-geograph_
 gutenberg_issued: '2023-05-22'
 identifiers:
   gutenberg: '70833'
